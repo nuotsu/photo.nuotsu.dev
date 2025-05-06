@@ -9,6 +9,7 @@ const config = {
 
 		alias: {
 			'@': './src',
+			'@@': './',
 		},
 	},
 }
